@@ -5,7 +5,7 @@
  * @package Tiphia for Typecho
  * @author CairBin
  * @version 1.0.4
- * @link https://github.com/tiphiapress
+ * @link https://posts.cairbin.top
  */
 if (!defined('__TYPECHO_ROOT_DIR__')) exit;
 ?>
