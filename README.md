@@ -27,6 +27,7 @@ Tiphia for Typecho 是从 TiphiaPress 默认主题移植而来的 Typecho 主题
 - 支持热门文章和最新评论。
 - 支持分类、标签、时间线内置页面。
 - 支持友情链接页面。
+- 支持 404 页面。
 - 支持页脚 Font Awesome 图标。
 - 支持 ICP 备案和公安备案链接。
 - 支持 Gravatar 镜像。
